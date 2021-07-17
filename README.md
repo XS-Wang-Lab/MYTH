@@ -9,7 +9,7 @@ You can install the released version of **MYTH** with:
 ```r
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
-devtools::install_github("WangX-Lab/MYTH/MYTH")
+devtools::install_github("XS-Wang-Lab/MYTH/MYTH")
 ```
 
 ## Examples
