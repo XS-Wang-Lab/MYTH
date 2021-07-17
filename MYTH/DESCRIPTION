@@ -1,0 +1,11 @@
+Package: MYTH
+Type: Package
+Title: A novel algorithm to score Methylation-Yielding Tumor Heterogeneity.
+Version: 1.0
+Date: 2021-4-18
+Author: Lin Li, Xiaosheng Wang, Qian Liu
+Maintainer: Lin Li <cpu_lilin@126.com>, Xiaosheng Wang <xiaosheng.wang@cpu.edu.cn>, Qian Liu <qian.liu@stu.cpu.edu.cn>
+Description: The package is utilized to score IntraTumor Heterogeneity (ITH) based on alterations of DNA methylation profiles.
+LazyData: true
+License: GPL-3
+RoxygenNote: 6.1.1
